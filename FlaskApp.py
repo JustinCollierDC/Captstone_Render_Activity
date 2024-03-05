@@ -5,6 +5,10 @@ Created on Sat Jun 26 11:45:03 2021
 @author: noopa
 """
 
+from collections.abc import Mapping
+from collections.abc import MutableMapping
+from collections.abc import Sequence
+
 
 import numpy as np
 import pickle
